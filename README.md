@@ -1,4 +1,4 @@
-## [DDPO: Direct Dual Propensity Optimization for Post-Click Conversion Rate Estimation](./DDPO Direct Dual Propensity Optimization for Post-Click Conversion Rate Estimation.pdf)
+## DDPO: Direct Dual Propensity Optimization for Post-Click Conversion Rate Estimation
 
 Hongzu Su, Lichao Meng,  Lei Zhu, Ke Lu, Jingjing Li
 
